@@ -1,0 +1,18 @@
+[submodule "disco-registry"]
+	path = disco-registry
+	url = https://github.com/krnbr/disco-registry.git
+[submodule "ms-mock"]
+	path = ms-mock
+	url = https://github.com/krnbr/ms-mock.git
+[submodule "ms-dummy"]
+	path = ms-dummy
+	url = https://github.com/krnbr/ms-dummy.git
+[submodule "ms-micro-naut"]
+	path = ms-micro-naut
+	url = https://github.com/krnbr/ms-micro-naut.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/krnbr/gateway.git
+[submodule "ms-node-js"]
+	path = ms-node-js
+	url = https://github.com/krnbr/ms-node-js.git
